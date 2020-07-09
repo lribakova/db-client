@@ -1,4 +1,4 @@
-package com.instaworld.dbclient;
+package com.github.lribakova.dbclient;
 
 import java.util.Scanner;
 
